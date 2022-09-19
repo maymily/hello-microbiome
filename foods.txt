@@ -2,3 +2,10 @@ miso
 kimchi
 sauerkraut
 cheese
+abcd
+efg
+hi
+j
+roger
+federer
+food 
